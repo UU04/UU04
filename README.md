@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on Team Dotmagic
 - 📫 How to reach me :( too bad no contacts
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=uu_04" alt="uu_04" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=uu04" alt="uu04" /> </p>
 
 <!---
 UU04/UU04 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
