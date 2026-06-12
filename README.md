@@ -1,12 +1,1 @@
-- 👋 Hi, I’m @UU04
-- 👀 I’m interested in DeltaTimes
-- 🌱 I’m currently learning on AI (or else in related)
-- 💞️ I’m looking to collaborate on Team Dotmagic
-- 📫 How to reach me :( too bad no contacts
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=uu04" alt="uu04" /> </p>
-
-<!---
-UU04/UU04 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+https://app.notion.com/p/Project-DZ-Reload-37d932f8a1d080398cc0d24c9e813f01?source=copy_link
